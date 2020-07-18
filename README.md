@@ -10,13 +10,13 @@
 - Major in Life Science -> Junior Developer (Web) since 2019.08
 - Java (Spring)
 - Python (Django)
-- HTML, css, javascript(react, bootstrap)
+- HTML, CSS, Javascript(React, Bootstrap)
 
 ### Current Interests 
 - Cloud (Google Cloud Platform)
 - Clean code, Refactoring
 - Query optimization 
-- Commercial service (Toy project)
+- Responsive Web
 
 
 <div align=left>
