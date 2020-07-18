@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <div align=center>
  
-[![Today Visitors / Total Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaximSungmo)](https://hits.seeyoufarm.com)
+Today Visitors / Total Visitors
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaximSungmo)](https://hits.seeyoufarm.com)
  
 </div>
