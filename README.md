@@ -14,6 +14,8 @@
 - Python (Django)
 - HTML, CSS, Javascript(React, Bootstrap)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximSungmo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Current Interests 
 - Cloud (Google Cloud Platform)
 - Clean code, Refactoring
@@ -21,5 +23,3 @@
 - Responsive Web
 
 ![MaximSungmo's github stats](https://github-readme-stats.vercel.app/api?username=MaximSungmo&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximSungmo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
