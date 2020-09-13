@@ -20,12 +20,4 @@
 - Query optimization 
 - Responsive Web
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MaximSungmo&show_icons=true&theme=radical)
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MaximSungmo&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MaximSungmo&repo=convoychat" />
-</a>
+![MaximSungmo's github stats](https://github-readme-stats.vercel.app/api?username=MaximSungmo&show_icons=true&theme=radical)
